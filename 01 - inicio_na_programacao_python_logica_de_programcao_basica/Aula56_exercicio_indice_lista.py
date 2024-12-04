@@ -11,4 +11,3 @@ indices = range(len(lista))
 
 for indece in indices:
     print(indece, lista[indece], type(lista[indece]))
-
