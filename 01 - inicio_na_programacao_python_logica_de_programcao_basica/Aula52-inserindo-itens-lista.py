@@ -19,7 +19,7 @@ lista = [10, 20, 30, 40]
 lista.append('Paulo') # Inserindo um item na utlma posição da lista
 nome = lista.pop() # Removendo o ultimo item da lista e atribuindo a variável nome
 lista.append(1233)
-del lista[-1]
+del lista[-1] # deletando o utimo valor
 # lista.clear()
 lista.insert(100, 5)
 print(lista)
